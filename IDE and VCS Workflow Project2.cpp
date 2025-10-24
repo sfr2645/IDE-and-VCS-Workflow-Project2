@@ -6,8 +6,8 @@ using namespace std;
 int main() {
     char first, middle, last;
     //Store your initials in these variables
-    first = 'S';
-    middle = 'F';
+    first = 'K';
+    middle = 'A';
     last = 'R';
 
     cout << first << middle << last << endl;
