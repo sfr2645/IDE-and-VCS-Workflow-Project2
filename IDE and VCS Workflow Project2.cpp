@@ -4,13 +4,13 @@
 #include <iostream>
 using namespace std;
 int main() {
-    char first, middle, last;
+    string name, address, phonenumber;
     //Store your initials in these variables
-    first = 'K';
-    middle = 'A';
-    last = 'R';
+    name = "Sarah Reeps";
+    address = "123 Main Street";
+    phonenumber = "757-123-1234";
 
-    cout << first << middle << last << endl;
+    cout << name << address << phonenumber << endl;
     return 0;
 
 }
